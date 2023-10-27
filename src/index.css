@@ -1,0 +1,9 @@
+* {
+  font-family: "Roboto";
+  line-height: 1.5;
+  font-weight: 400;
+  margin: 0%;
+  padding: 0%;
+  --first-color: #1976d2;
+  --second-color: #ff7;
+}
